@@ -1,7 +1,7 @@
 # Etchessera
 3D Chess Game made in Unity.
 
-![Board Screenshot](board.png)
+![Board Screenshot](EtchesseraExampleGameplay.png)
 
 <p float="left">
   <img src="white_move.png" width="32%" />
