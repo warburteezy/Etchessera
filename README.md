@@ -9,3 +9,6 @@
   <img src="black_horse_move_.png" width="32%" />
 </p>
 
+
+
+Will require 3D models for pieces in order to build.  
